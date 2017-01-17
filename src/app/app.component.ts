@@ -6,8 +6,6 @@ import { Login } from '../pages/login/login';
 import { MyPets } from '../pages/mypets/mypets';
 import { AccountPage } from '../pages/account/account';
 import { LogoutPage } from '../pages/logout/logout';
-import { SignupPage} from '../pages/signup/signup';
-import { BankAuthPage } from '../pages/bank-auth/bank-auth';
 
 @Component({
   templateUrl: 'app.html'

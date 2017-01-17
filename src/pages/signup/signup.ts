@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { NavController, NavParams } from 'ionic-angular';
-import { MyPets } from '../mypets/mypets';
 import { BankAuthPage } from '../bank-auth/bank-auth';
 
 @Component({
